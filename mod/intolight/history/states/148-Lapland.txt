@@ -1,0 +1,24 @@
+
+state={
+	id=148
+	name="STATE_148"
+	manpower = 121737
+	
+	state_category = rural
+	
+	resources={
+		steel=7 # was: 8
+		chromium=2 # was: 2
+	}
+	history={
+		owner = FIN
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = FIN
+	}
+
+	provinces={
+		13218 
+	}
+}
