@@ -1,0 +1,53 @@
+﻿capital = 762
+
+oob = "	MTM_2689"
+
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_politics = {
+
+	parties = {
+		liberalism = { 
+			popularity = 0
+		}
+
+		dictatorship = {
+			popularity = 0
+		}
+		
+		monarchism = {
+			popularity = 100
+		}
+		
+		socialism  = { 
+			popularity = 0
+		}
+	}
+	
+	ruling_party = monarchism
+	elections_allowed = no
+}
+
+
+create_country_leader = {
+	name = "Lord-Stratelates William Hopton"
+	picture = "William_Hopton.dds"
+	ideology = monarchism1
+	traits = {
+	}
+}
+
+
+create_field_marshal = {
+	name = "Lord-Stratelates William Hopton"
+	picture = "William_Hopton.dds"
+	traits = { old_guard }
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+	id = 10001
+}
