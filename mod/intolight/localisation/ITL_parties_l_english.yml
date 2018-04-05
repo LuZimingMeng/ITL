@@ -1,0 +1,17 @@
+﻿l_english:
+ liberalism:0 "Liberalism"
+ liberalism_noun:0 "Liberalist"
+ socialism:0 "Socialism"
+ socialism_noun:0 "Socialist"
+ dictatorship:0 "Dictatorship"
+ dictatorship_noun:0 "Dictator"
+ monarchism:0 "Monarchism"
+ monarchism_noun:0 "Monarchist"
+ monarchism_desc:0 "Monarchist Regime"
+ socialism_desc:0 "Socialist Regime"
+ dictatorship_desc:0 "Dictator Regime"
+ liberalism_desc:0 "Liberalist Regime"
+ 
+ MTM_monarchism_party:0 "MTGM"
+ MTM_monarchism_party_long:0 "Megas Thematic Government of Maurrias"
+

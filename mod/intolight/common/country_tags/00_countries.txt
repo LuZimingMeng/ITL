@@ -1,0 +1,2 @@
+LUX	= "countries/Luxemburg.txt"
+MTM	= "countries/Megas Thema of Maurrias.txt"

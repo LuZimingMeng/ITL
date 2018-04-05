@@ -1,0 +1,103 @@
+ideologies = {
+	
+	liberalism = {
+	
+		types = {
+			
+			liberalism1 = {
+			}
+		}
+		
+		dynamic_faction_names = {
+		}
+		
+		color = { 0 0 255 }
+		
+		rules = {
+		}
+		
+		modifiers = {
+		}
+		
+		faction_modifiers = {
+		}
+		ai_democratic = yes 
+	}
+
+
+	socialism = {
+		
+		types = {
+		
+			socialism1 = {
+			}
+		}
+		
+		dynamic_faction_names = {
+		}
+		
+		color = { 255 0 0 }
+		
+		ai_communist = yes 
+		
+		rules = {
+		}
+		
+		modifiers = {
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+
+	dictatorship = {
+	
+		types = {
+		
+			dictatorship1 = {
+			}
+		}
+		
+		dynamic_faction_names = {
+		}
+		
+		color = { 0 0 0 }
+		
+		rules = {
+		}
+		
+		modifiers = {
+		}
+
+		ai_fascist = yes
+	}
+	
+	monarchism = {
+	
+		types = {
+		
+			monarchism1  = {
+			}
+		}
+
+		dynamic_faction_names = {
+		}
+		
+		color = { 75 0 130 }
+		
+		
+		rules = {
+		}
+		
+		modifiers = {
+		}
+		
+		faction_modifiers = {
+		}
+
+
+		ai_neutral = yes
+	}
+}
