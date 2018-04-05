@@ -1,0 +1,20 @@
+state={
+	id=404
+	name="STATE_404" # Kzyl Orda
+	manpower = 667036
+	
+	state_category = wasteland
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SOV
+		#add_core_of = KAZ
+	}
+
+	provinces={
+		13218
+	}
+}

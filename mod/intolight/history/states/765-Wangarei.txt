@@ -1,0 +1,27 @@
+state= {
+	id=765
+	name="Wangarei" 
+	manpower = 1
+	
+	state_category = large_city
+
+	history=
+	{
+		owner = MTM
+		victory_points = { 13409 30 }
+		victory_points = { 13426 30 }
+		victory_points = { 13412 50 }
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 8
+			13412 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = MTM
+	}
+
+	provinces= {
+		13409 13426 13412 13411 13413 13414 13416 13418 13421 13423 13424 13425 13415 13417 13419 13420 13422
+ 	}
+}

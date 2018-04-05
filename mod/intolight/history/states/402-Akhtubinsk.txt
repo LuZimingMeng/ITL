@@ -1,0 +1,26 @@
+
+state={
+	id=402
+	name="STATE_402"
+	manpower = 282245
+	
+	state_category = rural
+	
+	resources={
+		chromium=15 # was: 20
+	}
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = SOV
+		#add_core_of = KAZ
+	}
+
+	provinces={
+		13218
+	}
+}

@@ -1,0 +1,21 @@
+state= {
+	id=764
+	name="Kaisarkirk" 
+	manpower = 1
+	
+	state_category = town
+
+	history=
+	{
+		owner = MTM
+		victory_points = { 13387 50 }
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = MTM
+	}
+
+	provinces= {
+		13387 13400 13384 13386 13388 13391 13389 13390 13394
+ 	}
+}

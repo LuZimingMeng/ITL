@@ -1,0 +1,22 @@
+state={
+	id=515
+	name="STATE_515"
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		13218
+	}
+	manpower=1482744
+	buildings_max_level_factor=1.000
+}

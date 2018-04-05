@@ -1,0 +1,21 @@
+state= {
+	id=763
+	name="Rotorua" 
+	manpower = 1
+	
+	state_category = rural
+
+	history=
+	{
+		owner = MTM
+		victory_points = { 13395 30 }
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = MTM
+	}
+
+	provinces= {
+		13395 13393 13396 13397 13399 13402 13430
+ 	}
+}

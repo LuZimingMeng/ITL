@@ -1,0 +1,44 @@
+state={
+	id=523
+	name="STATE_523"
+
+	history={
+		owner = AST
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+
+			4329 = {
+				naval_base = 3
+
+			}
+			12237 = {
+				naval_base = 2
+
+			}
+			12154 = {
+				naval_base = 1
+
+			}
+			12240 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			4329 3 
+		}
+		victory_points = {
+			12237 1 
+		}
+
+	}
+
+	provinces={
+		13218
+	}
+	manpower=1077000
+	buildings_max_level_factor=1
+	state_category="rural"
+}

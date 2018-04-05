@@ -1,0 +1,20 @@
+
+state={
+	id=444
+	name="STATE_444" # Baluchistan
+	manpower = 463500
+	
+	state_category = wasteland
+
+	history={
+		owner = RAJ
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = PAK
+	}
+
+	provinces={
+		13218
+	}
+}

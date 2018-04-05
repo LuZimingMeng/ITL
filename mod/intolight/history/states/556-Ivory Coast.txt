@@ -1,0 +1,21 @@
+
+state={
+	id=556
+	name="STATE_556" # French West Africa
+	manpower = 14844500
+	
+	state_category = rural
+	resources={
+		rubber=2 # was: 2
+	}
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+		13218
+	}
+}

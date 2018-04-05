@@ -1,0 +1,19 @@
+
+state={
+	id=460
+	name="STATE_460" # Constantine
+	manpower = 2343837
+	
+	state_category = town
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		13218
+	}
+}

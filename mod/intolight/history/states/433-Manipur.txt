@@ -1,0 +1,26 @@
+
+state={
+	id=433
+	name="STATE_433" # Rajasthan
+	manpower = 11786000
+	
+	state_category = town
+	
+	
+	resources={
+		tungsten=32 # was: 42
+	}
+
+	history={
+		owner = RAJ
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+
+	}
+
+	provinces={
+		13218
+	}
+}
