@@ -1,5 +1,5 @@
 state= {
-	id=765
+	id=766
 	name="Wangarei" 
 	manpower = 1
 	

@@ -1,5 +1,5 @@
 state= {
-	id=764
+	id=765
 	name="Kaisarkirk" 
 	manpower = 1
 	
